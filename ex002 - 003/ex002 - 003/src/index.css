@@ -1,0 +1,48 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body {
+    background-color: rgb(44, 44, 44);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.containerDivs {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.demoDiv, .text, .img {
+    padding: 10px 0;
+    text-align: center;
+}
+
+.containerDivs2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.demoDiv2, .text2, .img2 {
+    padding: 5px 0;
+    text-align: center;
+}
+    
+
+.cantainerTotal, h1, .description, .containerDivs {
+    margin-top: 30px;
+}
+
+
